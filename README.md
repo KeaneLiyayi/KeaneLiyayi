@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">ALX [Software Engineering] Learner | Backend Enthusiast | Creative Problem Solver</h3>
+<h1 align="center">Hi there 👋, I'm Keane Clement</h1>
+<h3 align="center">ALX Backend Web Development Learner | Backend Enthusiast | Creative Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[your-linkedin]" target="_blank">
@@ -20,10 +20,10 @@
 🎓 I am a learner of the **ALX [Software Engineering]** program, driven by a passion for building impactful digital solutions that scale.
 
 💬 I started with software engineering because:  
-👉 *[Insert a short 1–2 sentence reason why you started: e.g., "I wanted to understand how the tools we use daily are built, and I’ve always been fascinated by problem-solving through technology."]*
+👉 I wanted to understand how the tools we use daily are built, and I’ve always been fascinated by problem-solving through technology.
 
 🚀 I’m inspired by:  
-➡️ *[Insert what inspires you: open-source, community collaboration, automation, innovation, etc.]*
+➡️ Building apps that scale
 
 💡 I am passionate about:  
 - Backend development  
@@ -35,7 +35,7 @@
 
 ### 🎯 Vision & Goals
 
-🌟 My aim is to **[insert your vision—e.g., “become a full-stack web developer capable of delivering world-class solutions for businesses and communities.”]**
+🌟 My aim is to become a full-stack web developer capable of delivering world-class solutions for businesses and communities.
 
 🔧 That’s why I’m focusing on projects like:  
 - E-commerce platforms  
